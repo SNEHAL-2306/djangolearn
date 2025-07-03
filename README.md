@@ -9,4 +9,6 @@ This is a learning project for Django using Class-Based Views (CBVs).
 - Responsive Bootstrap UI (if used)
 - SQLite database
 
+## 🖼️ Screenshot
 
+![Blog Homepage](screenshots/homepage.png)
